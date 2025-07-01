@@ -2,7 +2,7 @@
 
 I'm a computer science student with a love for creating cool, old-school websites that bring a bit of nostalgia to the modern web. I enjoy building projects that spark curiosity and keep me passionate about learning and experimenting with code. 
 
-**I love working with**
+### I love working with:
 
 <div display="flex">
   
@@ -15,12 +15,15 @@ I'm a computer science student with a love for creating cool, old-school website
   
 </div>
 
-### 🌱 I’m currently learning
+### I’m currently learning:
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
 
 
